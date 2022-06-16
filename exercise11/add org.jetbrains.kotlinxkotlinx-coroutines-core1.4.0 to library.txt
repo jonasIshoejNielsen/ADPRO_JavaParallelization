@@ -1,0 +1,2 @@
+project structure => libraries => + => from maven
+org.jetbrains.kotlinxkotlinx-coroutines-core1.4.0

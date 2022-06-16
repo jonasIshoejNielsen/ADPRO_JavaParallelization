@@ -1,0 +1,28 @@
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 14.0.2
+# CPU:  Intel64 Family 6 Model 94 Stepping 3, GenuineIntel; 8 "cores"
+# Date: 2020-09-17T10:36:42+0200
+multiply                            845,0 ns    1882,00          2
+multiply                            627,5 ns    1071,89          4
+multiply                            268,8 ns      75,29          8
+multiply                            268,8 ns     190,92         16
+multiply                             88,8 ns      79,74         32
+multiply                             63,8 ns       9,10         64
+multiply                            113,1 ns     102,51        128
+multiply                             97,3 ns      49,50        256
+multiply                             67,1 ns      30,59        512
+multiply                             34,6 ns       0,76       1024
+multiply                             36,3 ns       4,14       2048
+multiply                             35,3 ns       2,23       4096
+multiply                             32,0 ns       3,98       8192
+multiply                             29,9 ns       0,31      16384
+multiply                             29,2 ns       2,28      32768
+multiply                             30,8 ns       1,85      65536
+multiply                             25,3 ns       1,50     131072
+multiply                             24,9 ns       0,47     262144
+multiply                             23,5 ns       0,14     524288
+multiply                             23,5 ns       0,18    1048576
+multiply                             23,5 ns       0,12    2097152
+multiply                             23,5 ns       0,08    4194304
+multiply                             23,5 ns       0,06    8388608
+multiply                             23,5 ns       0,08   16777216

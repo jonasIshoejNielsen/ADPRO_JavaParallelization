@@ -1,0 +1,286 @@
+http://www.dn.se 0 
+http://www.lemonde.fr 0 
+http://www.miele.de 145 <head><title>Document Moved</title></head>
+<body><h1>Object Moved</h1>This document may be found <a HREF="https://www.miele.de/">here</a></body>
+
+http://www.guardian.co.uk 0 
+https://www.cia.gov 9183 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]--><!--[if IE 7]>    <html class="no-js lt-ie9 lt-ie8" lang="en"> <![endif]--><!--[if IE 8]>    <html class="no-js lt-ie9" lang="en"> <![endif]--><!--[if gt IE 8]><!--><html xmlns="http://www.w3.org/1999/xhtml" class="no-js" lang="en" xml:lang="en"> <!--<![endif]-->
+<head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />	
+  <meta http-equiv="onion-location" content="http://ciadotgov4sjwlzihbbgxnqg3xiyrg7so2r2o3lt5wz5ypk4sxyjstad.onion" /><title>Welcome to the CIA Web Site — Central Intelligence Agency</title>
+  
+  <meta name="viewport" content="width=device-width" /><meta name="LastModified" content="May 12, 2020" /><meta name="description" content="CIA is the nation's premier agency providing global intelligence in an ever-changing political, social, economic, technological, &amp; military landscapes. Our mission is straightforward but critical: protect America's national security. We collect valuable foreign intelligence, conduct timely analysis, &amp; execute effective covert actions." />
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/btn.css" />
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/modules.css" />
+  <link rel="stylesheet" href="/++theme++contextual.agencytheme/css/smallscreen.css" />
+  <link href="/++theme++contextual.agencytheme/css/fullscreen.css" rel="stylesheet" type="text/css" media="only screen and (min-width: 993px)" />
+ <!--[if lt IE 9]><link href="/++theme++contextual.agencytheme/css/fullscreen.css" rel="stylesheet" type="text/css"><![endif]-->
+  
+  <script src="/++theme++contextual.agencytheme/js/modernizr-latest.js"></script><!--develpers version - switch to specific production http://modernizr.com/download/--> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery-1.8.3.min.js"></script>
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/response.min.js"></script>
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.main.js"></script>
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.flexslider.js"></script>
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/rwd.js"></script>
+  <!--[if IE]><script type="text/javascript" src="/++theme++contextual.agencytheme/js/ie.js"></script><![endif]-->
+  <!--[if gte IE 9]>
+  <style type="text/css">
+    #nav > ul , #nav > ul > li:hover > a , .about-box , .about-box .heading-box , .work-box , .work-box .heading-box , .download-panel .heading-block, .description-box .heading-block , .description-list .download-btn , .download-box .download-btn , .description-list .download-btn:hover, .download-box .download-btn:hover {filter: none;}
+  </style>
+  <![endif]--> 
+  <script type="text/javascript" src="/++theme++contextual.agencytheme/js/connect.js"></script>
+<!-- css files for popup -->
+<script>var isIElt9 = false;</script>
+<link href="/++theme++contextual.agencytheme/css/bootstrap_customized.css" rel="stylesheet" /><link rel="stylesheet" type="text/css" href="/++theme++contextual.agencytheme/css/expand-collapse-2016.css" media="screen" />
+ <!--[if lt IE 9]>
+    <script async src="/++theme++contextual.agencytheme/js/respond.min.js"></script>
+    <script async src="/++theme++contextual.agencytheme/js/html5shiv.min.js"></script>
+    <script>var isIElt9 = true;</script>
+<![endif]-->
+<!--   jquery code added for popup -->
+ <script async="" src="/++theme++contextual.agencytheme/js/bootstrap_customized.min.js"></script>
+<!-- our public key -->
+ <script async="" src="/js2/pubkey.js"></script>
+<!-- image preloading -->
+ <script>
+  prePic = new Image();
+  prePic.src ="/++theme++contextual.agencytheme/images/separator-2.gif";
+  prePic2 = new Image();
+  prePic2.src="/++theme++contextual.agencytheme/images/arrow-5.gif";
+  prePic3 = new Image();
+  prePic3.src="/++theme++contextual.agencytheme/images/bg-heading-panel.jpg";
+  prePic4 = new Image();
+  prePic4.src="/++theme++contextual.agencytheme/images/heading-banners/CHI12052_Headers_contact.jpg";
+ </script>
+<script type="text/javascript" src="/++theme++contextual.agencytheme/js/expandcollapse.js"></script><script type="text/javascript" src="/++theme++contextual.agencytheme/js/jquery.history.js"></script></head>
+<!-- 3/26 NEW: Home has class template-homepage_html -->
+<body class="template-homepage_html template-homepage_html portaltype-agencypage site-CIAgov section-index icons-on"><div><noscript>Javascript must be enabled for the correct page display</noscript><div id="wrapper">
+
+
+    <header id="header">
+      <div class="header-holder">
+       	<a class="skip" accesskey="S" href="#main-content">skip to content</a>
+        <span class="bg-globe"></span>
+        <div class="header-panel">
+          <hgroup>
+              <h1 class="logo"><a href="/"><img src="/++theme++contextual.agencytheme/images/logo.png" alt="Central Intelligence Agency"><span>Central Intelligence Agency</span></a></h1>
+              <h2 class="work-text">The Work Of A Nation. The Center of Intelligence.</h2>
+          </hgroup>
+          <div class="search-form">
+            <div class="row">
+              <div class="add-nav">
+                <ul>
+                  <li><a title="Report Information" class="active reportTrigger" href="/contact-cia/report-information.html">Report Information</a></li>
+                  <li style="display:none;"><a title="Iraqi Rewards Program" href="/about-cia/iraqi-rewards-program.html">&#1585;&#1593;&#1585;&#1576;&#1610;&#1593;&#1585;&#1576;&#1610;</a></li>
+                  <li><a title="A single point of contact for all CIA inquiries." class="landingTrigger" href="/contact-cia">Contact</a></li>
+                </ul>
+              </div>
+            </div>
+            <div class="row">
+              <form id="ciaSearchForm" method="get" action="/search">
+                <fieldset>
+                  <legend class="visuallyhidden">Search CIA.gov</legend>
+                  <label class="visuallyhidden" for="q">Search</label>
+                  <input name="q" type="text" class="text" id="q" maxlength="2047" placeholder="Search CIA.gov...">
+				  <input type="hidden" name="site" value="CIA">
+				  <input type="hidden" name="output" value="xml_no_dtd">
+				  <input type="hidden" name="client" value="CIA">
+				  <input type="hidden" name="myAction" value="/search">
+				  <input type="hidden" name="proxystylesheet" value="CIA">
+				  <input type="hidden" name="submitMethod" value="get">
+                  <input type="submit" value="Search" class="submit">
+                </fieldset>
+              </form>
+            </div>
+            <div class="row">              
+              <ul class="lang-list">
+                <li lang="ar" xml:lang="ar"><a title="Arabic" href="/ar">&#1593;&#1585;&#1576;&#1610;</a></li>
+                <li lang="zh-cn" xml:lang="zh-cn"><a title="Chinese" href="/zh">&#20013;&#25991;</a></li>
+                <li lang="en" xml:lang="en"><a title="English" href="/">English</a></li>
+                <li lang="fr" xml:lang="fr"><a title="French" href="/fr">Fran&#231;ais</a></li>
+                <li lang="ru" xml:lang="ru"><a title="Russian" href="/ru">&#1056;&#1091;&#1089;&#1089;&#1082;&#1080;&#1081;</a></li>
+                <li lang="es" xml:lang="es"><a title="Spanish" href="/es">Espa&#241;ol</a></li>
+                <li><a title="More Languages" alt="More Languages" class="more" href="/foreign-languages">More<span class="visuallyhidden"> Languages</span></a></li>
+             </ul>
+            </div>
+          </div>   
+        </div>
+        <nav id="nav">
+          <h3 class="visuallyhidden">Navigation</h3>
+          <ul><li class="
+                   active
+               "><a title="" class="" href="/">
+        
+        <span>Home</span>
+    </a><span class="arrow"></span></li>
+
+
+<li class=""><a title="About CIA Description" class="hasChildrens" href="/about-cia">
+        
+        <span>About CIA</span>
+    </a><div class="drop"><ul class="globalSectionsLevel1 show-static">
+            
+
+
+
+<li class="plain ">
+
+    
+
+    <a title="" class="" href="/about-cia/todays-cia">
+        
+        <span>Today's CIA</span>
+    </a>
+    
+    
+        
+        
+        
+    
+    
+
+</li>
+
+
+<li class="plain ">
+
+    
+
+    <a title="" class="" href="/about-cia/leadership">
+        
+        <span>Leadership</span>
+    </a>
+    
+    
+        
+        
+        
+    
+    
+
+</li>
+
+
+<li class="plain ">
+
+    
+
+    <a title="" class="" href="/about-cia/cia-vision-mission-values">
+        
+        <span>CIA Vision, Mission, Ethos &amp; Challenges</span>
+    </a>
+    
+    
+        
+        
+        
+    
+    
+
+</li>
+
+
+<li class="plain ">
+
+    
+
+    <a title="" class="" href="/about-cia/headquarters-tour">
+        
+        <span>Headquarters Tour</span>
+    </a>
+    
+    
+        
+        
+        
+    
+    
+
+</li>
+
+
+<li class="plain ">
+
+    
+
+
+http://www.microsoft.com 1019 <html><head><title>Microsoft Corporation</title><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"></meta><meta http-equiv="Content-Type" content="text/html; charset=utf-8"></meta><meta name="SearchTitle" content="Microsoft.com" scheme=""></meta><meta name="Description" content="Get product information, support, and news from Microsoft." scheme=""></meta><meta name="Title" content="Microsoft.com Home Page" scheme=""></meta><meta name="Keywords" content="Microsoft, product, support, help, training, Office, Windows, software, download, trial, preview, demo,  business, security, update, free, computer, PC, server, search, download, install, news" scheme=""></meta><meta name="SearchDescription" content="Microsoft.com Homepage" scheme=""></meta></head><body><p>Your current User-Agent string appears to be from an automated process, if this is incorrect, please click this link:<a href="http://www.microsoft.com/en/us/default.aspx?redir=true">United States English Microsoft Homepage</a></p></body></html>
+
+http://www.amazon.com 176 <html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+
+http://www.dtu.dk 133 <html><head><title>Object moved</title></head><body>
+<h2>Object moved to <a href="https://www.dtu.dk/">here</a>.</h2>
+</body></html>
+
+http://www.bmw.com 241 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.bmw.com/en/index.html">here</a>.</p>
+</body></html>
+
+http://www.di.ku.dk 287 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://di.ku.dk/">here</a>.</p>
+<hr>
+<address>Apache Server at www.di.ku.dk Port 80</address>
+</body></html>
+
+http://www.welt.de 0 
+http://www.itu.dk 227 <!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
+<html><head>
+<title>301 Moved Permanently</title>
+</head><body>
+<h1>Moved Permanently</h1>
+<p>The document has moved <a href="https://www.itu.dk/">here</a>.</p>
+</body></html>
+
+http://www.dr.dk 0 
+http://www.tv2.dk 87 <p>Moved Permanently. Redirecting to <a href="https://tv2.dk/">https://tv2.dk/</a></p>
+
+http://www.heise.de 155 <html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+
+http://www.google.com 13070 <!doctype html><html itemscope="" itemtype="http://schema.org/WebPage" lang="da"><head><meta content="text/html; charset=UTF-8" http-equiv="Content-Type"><meta content="/images/branding/googleg/1x/googleg_standard_color_128dp.png" itemprop="image"><title>Google</title><script nonce="5cWOS0Jp+xLBKtsBpi1b5w==">(function(){window.google={kEI:'ccRxX6mlMseLlwS-4ZGYDw',kEXPI:'0,202162,1151584,5663,731,223,5104,207,2415,789,10,1226,364,1499,612,205,383,246,5,1354,648,3452,271,43,3,66,308,286,174,216,284,978,454,319,226,76,112,792,236,1118822,1197757,509,16,328985,13677,4855,32692,16111,6059,22628,9188,8384,4858,1362,9290,3027,4741,11033,1808,4998,7931,5297,2054,920,873,4192,6430,12445,2082,4518,2777,919,2277,8,85,2711,1593,1279,2212,530,149,1103,840,517,1522,4258,312,1137,2,2669,2023,1777,520,1704,242,2230,93,328,1284,16,3163,2010,1813,1787,3228,2844,7,6068,6286,4455,641,6134,1405,337,4929,108,1456,1953,906,2,941,714,1900,2397,1387,6083,1704,1571,3,346,230,970,865,4625,337,466,424,2423,2488,2252,3942,1791,4,1448,80,702,1602,1236,271,561,313,405,1860,3903,281,52,975,1402,463,460,1555,4,628,3217,1254,1315,3,2108,298,874,1426,69,1321,795,299,200,2811,1753,690,1968,3036,1127,79,359,2,158,912,564,464,225,430,31,469,833,2552,138,3095,875,115,52,535,1239,1010,246,256,1243,970,656,193,83,366,1,1006,638,665,3,826,130,204,156,106,2,102,474,583,28,13,384,48,471,2183,702,2359,802,1596,698,5,1383,158,168,111,494,2,71,405,406,58,260,60,30,307,7,53,360,11,173,10,14,534,161,218,286,96,264,685,168,932,114,216,899,77,56,111,620,886,18,445,258,549,5757069,1873,8800043,549,333,444,1,2,80,1,900,896,1,9,2,2551,1,748,141,795,10,553,1,4265,1,1,2,1017,9,305,3299,248,595,1,433,96,1,28,6,76,6,3,5,3,5,4,7,5,10,2,23,9,2,9,1,2,15,1,5,7,5,9,39,3,33,1,23959407,53,2700390,15694',kBL:'4o77'};google.sn='webhp';google.kHL='da';})();(function(){google.lc=[];google.li=0;google.getEI=function(a){for(var c;a&&(!a.getAttribute||!(c=a.getAttribute("eid")));)a=a.parentNode;return c||google.kEI};google.getLEI=function(a){for(var c=null;a&&(!a.getAttribute||!(c=a.getAttribute("leid")));)a=a.parentNode;return c};google.ml=function(){return null};google.time=function(){return Date.now()};google.log=function(a,c,b,d,g){if(b=google.logUrl(a,c,b,d,g)){a=new Image;var e=google.lc,f=google.li;e[f]=a;a.onerror=a.onload=a.onabort=function(){delete e[f]};google.vel&&google.vel.lu&&google.vel.lu(b);a.src=b;google.li=f+1}};google.logUrl=function(a,c,b,d,g){var e="",f=google.ls||"";b||-1!=c.search("&ei=")||(e="&ei="+google.getEI(d),-1==c.search("&lei=")&&(d=google.getLEI(d))&&(e+="&lei="+d));d="";!b&&google.cshid&&-1==c.search("&cshid=")&&"slh"!=a&&(d="&cshid="+google.cshid);b=b||"/"+(g||"gen_204")+"?atyp=i&ct="+a+"&cad="+c+e+f+"&zx="+google.time()+d;/^http:/i.test(b)&&"https:"==window.location.protocol&&(google.ml(Error("a"),!1,{src:b,glmm:1}),b="");return b};}).call(this);(function(){google.y={};google.x=function(a,b){if(a)var c=a.id;else{do c=Math.random();while(google.y[c])}google.y[c]=[a,b];return!1};google.lm=[];google.plm=function(a){google.lm.push.apply(google.lm,a)};google.lq=[];google.load=function(a,b,c){google.lq.push([[a],b,c])};google.loadAll=function(a,b){google.lq.push([a,b])};}).call(this);google.f={};(function(){
+document.documentElement.addEventListener("submit",function(b){var a;if(a=b.target){var c=a.getAttribute("data-submitfalse");a="1"==c||"q"==c&&!a.elements.q.value?!0:!1}else a=!1;a&&(b.preventDefault(),b.stopPropagation())},!0);document.documentElement.addEventListener("click",function(b){var a;a:{for(a=b.target;a&&a!=document.documentElement;a=a.parentElement)if("A"==a.tagName){a="1"==a.getAttribute("data-nohref");break a}a=!1}a&&b.preventDefault()},!0);}).call(this);
+var a=window.location,b=a.href.indexOf("#");if(0<=b){var c=a.href.substring(b+1);/(^|&)q=/.test(c)&&-1==c.indexOf("#")&&a.replace("/search?"+c.replace(/(^|&)fp=[^&]*/g,"")+"&cad=h")};</script><style>#gbar,#guser{font-size:13px;padding-top:1px !important;}#gbar{height:22px}#guser{padding-bottom:7px !important;text-align:right}.gbh,.gbd{border-top:1px solid #c9d7f1;font-size:1px}.gbh{height:0;position:absolute;top:24px;width:100%}@media all{.gb1{height:22px;margin-right:.5em;vertical-align:top}#gbar{float:left}}a.gb1,a.gb4{text-decoration:underline !important}a.gb1,a.gb4{color:#00c !important}.gbi .gb4{color:#dd8e27 !important}.gbf .gb4{color:#900 !important}
+</style><style>body,td,a,p,.h{font-family:arial,sans-serif}body{margin:0;overflow-y:scroll}#gog{padding:3px 8px 0}td{line-height:.8em}.gac_m td{line-height:17px}form{margin-bottom:20px}.h{color:#36c}.q{color:#00c}em{font-weight:bold;font-style:normal}.lst{height:25px;width:496px}.gsfi,.lst{font:18px arial,sans-serif}.gsfs{font:17px arial,sans-serif}.ds{display:inline-box;display:inline-block;margin:3px 0 4px;margin-left:4px}input{font-family:inherit}body{background:#fff;color:#000}a{color:#11c;text-decoration:none}a:hover,a:active{text-decoration:underline}.fl a{color:#36c}a:visited{color:#551a8b}.sblc{padding-top:5px}.sblc a{display:block;margin:2px 0;margin-left:13px;font-size:11px}.lsbb{background:#eee;border:solid 1px;border-color:#ccc #999 #999 #ccc;height:30px}.lsbb{display:block}#WqQANb a{display:inline-block;margin:0 12px}.lsb{background:url(/images/nav_logo229.png) 0 -261px repeat-x;border:none;color:#000;cursor:pointer;height:30px;margin:0;outline:0;font:15px arial,sans-serif;vertical-align:top}.lsb:active{background:#ccc}.lst:focus{outline:none}.tiah{width:458px}</style><script nonce="5cWOS0Jp+xLBKtsBpi1b5w=="></script></head><body bgcolor="#fff"><script nonce="5cWOS0Jp+xLBKtsBpi1b5w==">(function(){var src='/images/nav_logo229.png';var iesg=false;document.body.onload = function(){window.n && window.n();if (document.images){new Image().src=src;}
+if (!iesg){document.f&&document.f.q.focus();document.gbqf&&document.gbqf.q.focus();}
+}
+})();</script><div id="mngb"><div id=gbar><nobr><b class=gb1>S�gning</b> <a class=gb1 href="http://www.google.dk/imghp?hl=da&tab=wi">Billeder</a> <a class=gb1 href="http://maps.google.dk/maps?hl=da&tab=wl">Maps</a> <a class=gb1 href="https://play.google.com/?hl=da&tab=w8">Play</a> <a class=gb1 href="http://www.youtube.com/?gl=DK&tab=w1">YouTube</a> <a class=gb1 href="https://news.google.com/?tab=wn">Nyheder</a> <a class=gb1 href="https://mail.google.com/mail/?tab=wm">Gmail</a> <a class=gb1 href="https://drive.google.com/?tab=wo">Drev</a> <a class=gb1 style="text-decoration:none" href="https://www.google.dk/intl/da/about/products?tab=wh"><u>Mere</u> &raquo;</a></nobr></div><div id=guser width=100%><nobr><span id=gbn class=gbi></span><span id=gbf class=gbf></span><span id=gbe></span><a href="http://www.google.dk/history/optout?hl=da" class=gb4>Webhistorik</a> | <a  href="/preferences?hl=da" class=gb4>Indstillinger</a> | <a target=_top id=gb_70 href="https://accounts.google.com/ServiceLogin?hl=da&passive=true&continue=http://www.google.com/&ec=GAZAAQ" class=gb4>Log ind</a></nobr></div><div class=gbh style=left:0></div><div class=gbh style=right:0></div></div><center><br clear="all" id="lgpd"><div id="lga"><img alt="Google" height="92" src="/images/branding/googlelogo/1x/googlelogo_white_background_color_272x92dp.png" style="padding:28px 0 14px" width="272" id="hplogo"><br><br></div><form action="/search" name="f"><table cellpadding="0" cellspacing="0"><tr valign="top"><td width="25%">&nbsp;</td><td align="center" nowrap=""><input name="ie" value="ISO-8859-1" type="hidden"><input value="da" name="hl" type="hidden"><input name="source" type="hidden" value="hp"><input name="biw" type="hidden"><input name="bih" type="hidden"><div class="ds" style="height:32px;margin:4px 0"><div style="position:relative;zoom:1"><input class="lst tiah" style="margin:0;padding:5px 8px 0 6px;vertical-align:top;color:#000;padding-right:38px" autocomplete="off" value="" title="Google-s�gning" maxlength="2048" name="q" size="57"><img src="/textinputassistant/tia.png" style="position:absolute;cursor:pointer;right:5px;top:4px;z-index:300" data-script-url="/textinputassistant/11/da_tia.js" id="tsuid1" alt="" height="23" width="27"><script nonce="5cWOS0Jp+xLBKtsBpi1b5w==">(function(){var id='tsuid1';document.getElementById(id).onclick = function(){var s = document.createElement('script');s.src = this.getAttribute('data-script-url');(document.getElementById('xjsc')||document.body).appendChild(s);};})();</script></div></div><br style="line-height:0"><span class="ds"><span class="lsbb"><input class="lsb" value="Google-s�gning" name="btnG" type="submit"></span></span><span class="ds"><span class="lsbb"><input class="lsb" id="tsuid2" value="Jeg pr�ver lykken" name="btnI" type="submit"><script nonce="5cWOS0Jp+xLBKtsBpi1b5w==">(function(){var id='tsuid2';document.getElementById(id).onclick = function(){if (this.form.q.value){this.checked = 1;if (this.form.iflsig)this.form.iflsig.disabled = false;}
+else top.location='/doodles/';};})();</script><input value="AINFCbYAAAAAX3HSgTucuuNNZ2MM09aufQkm-h0BRtMe" name="iflsig" type="hidden"></span></span></td><td class="fl sblc" align="left" nowrap="" width="25%"><a href="/advanced_search?hl=da&amp;authuser=0">Avanceret s�gning</a></td></tr></table><input id="gbv" name="gbv" type="hidden" value="1"><script nonce="5cWOS0Jp+xLBKtsBpi1b5w==">(function(){var a,b="1";if(document&&document.getElementById)if("undefined"!=typeof XMLHttpRequest)b="2";else if("undefined"!=typeof ActiveXObject){var c,d,e=["MSXML2.XMLHTTP.6.0","MSXML2.XMLHTTP.3.0","MSXML2.XMLHTTP","Microsoft.XMLHTTP"];for(c=0;d=e[c++];)try{new ActiveXObject(d),b="2"}catch(h){}}a=b;if("2"==a&&-1==location.search.indexOf("&gbv=2")){var f=google.gbvu,g=document.getElementById("gbv");g&&(g.value=a);f&&window.setTimeout(function(){location.href=f},0)};}).call(this);</script></form><div id="gac_scont"></div><div style="font-size:83%;min-height:3.5em"><br><div id="gws-output-pages-elements-homepage_additional_languages__als"><style>#gws-output-pages-elements-homepage_additional_languages__als{font-size:small;margin-bottom:24px}#SIvCob{display:inline-block;line-height:28px;}#SIvCob a{padding:0 3px;}.H6sW5{display:inline-block;margin:0 2px;white-space:nowrap}.z4hgWe{display:inline-block;margin:0 2px}</style><div id="SIvCob">Google er tilg�ngelig p�:  <a href="http://www.google.com/setprefs?sig=0_0ofll4GagW-oDZlRW6He9DYRlTY%3D&amp;hl=fo&amp;source=homepage&amp;sa=X&amp;ved=0ahUKEwjpoYee24vsAhXHxYUKHb5wBPMQ2ZgBCAU">F�royskt</a>  </div></div></div><span id="footer"><div style="font-size:10pt"><div style="margin:19px auto;text-align:center" id="WqQANb"><a href="/intl/da/ads/">Annonc�r med Google</a><a href="http://www.google.dk/intl/da/services/">Virksomhedsl�sninger</a><a href="/intl/da/about.html">Alt om Google</a><a href="http://www.google.com/setprefdomain?prefdom=DK&amp;prev=http://www.google.dk/&amp;sig=K_rhM2qqY4GeMF7fz6rX98ICucB0g%3D">Google.dk</a></div></div><p style="font-size:8pt;color:#767676">&copy; 2020 - <a href="/intl/da/policies/privacy/">Privatliv</a> - <a href="/intl/da/policies/terms/">Vilk�r</a></p></span></center><script nonce="5cWOS0Jp+xLBKtsBpi1b5w==">(function(){window.google.cdo={height:0,width:0};(function(){var a=window.innerWidth,b=window.innerHeight;if(!a||!b){var c=window.document,d="CSS1Compat"==c.compatMode?c.documentElement:c.body;a=d.clientWidth;b=d.clientHeight}a&&b&&(a!=google.cdo.width||b!=google.cdo.height)&&google.log("","","/client_204?&atyp=i&biw="+a+"&bih="+b+"&ei="+google.kEI);}).call(this);})();(function(){var u='/xjs/_/js/k\x3dxjs.hp.en.buB-8MyIn5M.O/m\x3dsb_he,d/am\x3dAJ4gDg/d\x3d1/rs\x3dACT90oFQZhVdotoTdoWmYL9leW9zq9oHfg';
+setTimeout(function(){var b=document;var a="SCRIPT";"application/xhtml+xml"===b.contentType&&(a=a.toLowerCase());a=b.createElement(a);a.src=u;google.timers&&google.timers.load&&google.tick&&google.tick("load","xjsls");document.body.appendChild(a)},0);})();(function(){window.google.xjsu='/xjs/_/js/k\x3dxjs.hp.en.buB-8MyIn5M.O/m\x3dsb_he,d/am\x3dAJ4gDg/d\x3d1/rs\x3dACT90oFQZhVdotoTdoWmYL9leW9zq9oHfg';})();function _DumpException(e){throw e;}
+function _F_installCss(c){}
+(function(){google.jl={dw:false,em:[],emw:false,lls:'default',pdt:0,snet:true,uwp:true};})();(function(){var pmc='{\x22d\x22:{},\x22sb_he\x22:{\x22agen\x22:true,\x22cgen\x22:true,\x22client\x22:\x22heirloom-hp\x22,\x22dh\x22:true,\x22dhqt\x22:true,\x22ds\x22:\x22\x22,\x22ffql\x22:\x22en\x22,\x22fl\x22:true,\x22host\x22:\x22google.com\x22,\x22isbh\x22:28,\x22jsonp\x22:true,\x22msgs\x22:{\x22cibl\x22:\x22Ryd s�gning\x22,\x22dym\x22:\x22Mente du:\x22,\x22lcky\x22:\x22Jeg pr�ver lykken\x22,\x22lml\x22:\x22F� flere oplysninger\x22,\x22oskt\x22:\x22Inputv�rkt�jer\x22,\x22psrc\x22:\x22Denne s�gning blev fjernet fra din \\u003Ca href\x3d\\\x22/history\\\x22\\u003EWebhistorik\\u003C/a\\u003E\x22,\x22psrl\x22:\x22Fjern\x22,\x22sbit\x22:\x22S�g efter billede\x22,\x22srch\x22:\x22Google-s�gning\x22},\x22ovr\x22:{},\x22pq\x22:\x22\x22,\x22refpd\x22:true,\x22rfs\x22:[],\x22sbpl\x22:16,\x22sbpr\x22:16,\x22scd\x22:10,\x22stok\x22:\x22kEBN3_i8uGy-6to_HkpR56cYqSA\x22,\x22uhde\x22:false}}';google.pmc=JSON.parse(pmc);})();</script>        </body></html>
+
+http://www.nytimes.com 0 
+http://www.vg.no 0 
+http://www.dsb.dk 0 
+http://www.bbc.co.uk 12 Redirecting
+
+http://www.eb.dk 0 
+http://www.ing.dk 0 
+http://www.wsj.com 176 <html>
+<head><title>301 Moved Permanently</title></head>
+<body bgcolor="white">
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>CloudFront</center>
+</body>
+</html>
+

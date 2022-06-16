@@ -1,0 +1,28 @@
+***VOLATILE EXPERIMENTS***
+N=10000000
+Volatile time: 79682100
+Volatile time per iteration: 7.9682097
+N=100000000
+Volatile time: 779600300
+Volatile time per iteration: 7.7960033
+N=214748364
+Volatile time: 300
+Volatile time per iteration: 1.3969839E-6
+
+
+***NON-VOLATILE EXPERIMENTS***
+N=10000000
+Non volatile time: 9087900
+Non Volatile time per iteration: 0.90879
+
+
+N=100000000
+Non volatile time: 12728600
+Non Volatile time per iteration: 0.127286
+
+
+N=214748364
+Non volatile time: 200
+Non Volatile time per iteration: 9.313226E-7
+
+

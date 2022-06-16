@@ -1,0 +1,30 @@
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 13.0.1
+# CPU:  AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD; 8 "cores"
+# Date: 2020-09-20T11:26:07+0200
+Uncontended lock                   1585.0 ns    3485.13          2
+Uncontended lock                    487.5 ns     330.25          4
+Uncontended lock                    452.5 ns     239.34          8
+Uncontended lock                    171.3 ns      86.01         16
+Uncontended lock                    243.1 ns     224.93         32
+Uncontended lock                     63.9 ns      18.55         64
+Uncontended lock                     58.9 ns      12.66        128
+Uncontended lock                     66.1 ns      14.36        256
+Uncontended lock                     56.7 ns       7.41        512
+Uncontended lock                     40.2 ns       3.81       1024
+Uncontended lock                     39.5 ns       3.98       2048
+Uncontended lock                     39.1 ns       1.35       4096
+Uncontended lock                     19.1 ns      14.31       8192
+Uncontended lock                     11.3 ns       2.70      16384
+Uncontended lock                     10.4 ns       0.57      32768
+Uncontended lock                     11.5 ns       0.84      65536
+Uncontended lock                      4.7 ns       3.21     131072
+Uncontended lock                     19.5 ns      19.28     262144
+Uncontended lock                      5.2 ns       2.00     524288
+Uncontended lock                      5.7 ns       2.21    1048576
+Uncontended lock                      7.2 ns       1.94    2097152
+Uncontended lock                      4.3 ns       1.94    4194304
+Uncontended lock                      4.8 ns       1.12    8388608
+Uncontended lock                      4.3 ns       1.55   16777216
+Uncontended lock                      5.0 ns       1.45   33554432
+Uncontended lock                      4.9 ns       0.91   67108864

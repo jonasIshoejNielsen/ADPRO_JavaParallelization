@@ -1,0 +1,113 @@
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 13.0.1
+# CPU:  AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD; 8 "cores"
+# Date: 2020-09-20T11:33:17+0200
+threads used = 1
+countParallel                     25129.3 us    5451.33          2
+countParallel                     22546.2 us    2184.36          4
+countParallel                     19102.8 us     962.36          8
+countParallel                     18230.6 us    1191.94         16
+threads used = 3
+countParallel                     10064.4 us    1298.11          2
+countParallel                      8417.9 us     472.96          4
+countParallel                      8057.2 us     357.99          8
+countParallel                      8084.6 us     250.33         16
+countParallel                      8155.1 us     373.90         32
+threads used = 5
+countParallel                      7447.5 us     808.41          2
+countParallel                      7558.6 us     609.50          4
+countParallel                      7247.8 us     315.09          8
+countParallel                      7667.7 us     256.78         16
+countParallel                      7339.0 us     218.62         32
+countParallel                      7633.9 us     270.36         64
+threads used = 7
+countParallel                      6523.6 us     470.06          2
+countParallel                      6267.3 us     251.95          4
+countParallel                      6510.5 us     251.67          8
+countParallel                      6343.2 us     134.78         16
+countParallel                      6387.0 us     114.07         32
+countParallel                      6437.1 us     151.81         64
+threads used = 9
+countParallel                      6178.6 us     475.10          2
+countParallel                      6187.2 us     376.64          4
+countParallel                      7620.2 us     752.42          8
+countParallel                      6956.2 us     895.96         16
+countParallel                      6819.1 us     592.00         32
+countParallel                      6581.8 us     236.52         64
+threads used = 11
+countParallel                      6961.0 us     629.78          2
+countParallel                      6631.6 us     437.98          4
+countParallel                      6363.4 us     272.39          8
+countParallel                      6534.4 us     155.54         16
+countParallel                      6425.3 us     180.25         32
+countParallel                      6619.4 us     555.51         64
+threads used = 13
+countParallel                      6058.7 us     411.05          2
+countParallel                      6092.2 us     253.86          4
+countParallel                      6381.0 us     375.50          8
+countParallel                      6351.4 us     230.81         16
+countParallel                      6671.6 us     653.07         32
+countParallel                      6263.8 us     162.22         64
+threads used = 15
+countParallel                      6196.9 us     728.85          2
+countParallel                      5946.7 us     226.13          4
+countParallel                      6131.4 us     248.26          8
+countParallel                      5995.1 us     164.92         16
+countParallel                      6034.7 us     137.56         32
+countParallel                      6117.4 us     122.25         64
+threads used = 17
+countParallel                      6349.7 us     318.69          2
+countParallel                      6362.8 us     254.60          4
+countParallel                      6318.8 us     292.07          8
+countParallel                      6240.4 us     219.21         16
+countParallel                      6432.2 us     324.03         32
+countParallel                      6140.0 us      96.92         64
+threads used = 19
+countParallel                      6254.6 us     358.52          2
+countParallel                      6164.7 us     307.90          4
+countParallel                      6250.8 us     209.46          8
+countParallel                      6278.9 us     252.80         16
+countParallel                      6196.5 us     178.82         32
+countParallel                      6181.4 us     135.14         64
+threads used = 21
+countParallel                      6092.0 us     330.63          2
+countParallel                      6478.1 us     244.83          4
+countParallel                      6370.6 us     271.22          8
+countParallel                      6294.3 us     139.05         16
+countParallel                      6206.2 us     159.15         32
+countParallel                      6278.9 us     126.50         64
+threads used = 23
+countParallel                      6202.1 us     259.90          2
+countParallel                      6395.7 us     266.08          4
+countParallel                      6387.5 us     305.58          8
+countParallel                      6327.7 us     245.74         16
+countParallel                      6617.3 us     551.03         32
+countParallel                      6188.1 us     122.70         64
+threads used = 25
+countParallel                      6284.6 us     465.87          2
+countParallel                      6367.0 us     224.65          4
+countParallel                      6388.9 us     206.88          8
+countParallel                      6502.6 us     217.46         16
+countParallel                      6383.6 us     175.41         32
+countParallel                      6362.9 us     181.60         64
+threads used = 27
+countParallel                      6768.3 us     518.11          2
+countParallel                      6626.8 us     188.49          4
+countParallel                      6300.6 us     320.00          8
+countParallel                      6384.8 us     233.38         16
+countParallel                      7449.6 us     964.78         32
+countParallel                      7224.6 us     729.71         64
+threads used = 29
+countParallel                      6340.7 us     203.04          2
+countParallel                      7023.5 us     234.33          4
+countParallel                      7016.4 us     278.66          8
+countParallel                      6860.8 us     312.35         16
+countParallel                      7247.4 us     356.49         32
+countParallel                      6978.9 us     281.01         64
+threads used = 31
+countParallel                      8050.7 us    1306.58          2
+countParallel                      7808.2 us     761.06          4
+countParallel                      7677.7 us    1105.07          8
+countParallel                      7286.8 us     295.45         16
+countParallel                      7165.6 us     383.66         32
+countParallel                      7047.2 us     283.87         64

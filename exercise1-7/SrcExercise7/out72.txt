@@ -1,0 +1,64 @@
+# OS:   Windows 10; 10.0; amd64
+# JVM:  Oracle Corporation; 13.0.1
+# CPU:  AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD; 8 "cores"
+# Date: 2020-10-17T11:38:01+0200
+
+class SynchronizedMap
+        17 maps to B
+       117 maps to C
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        17 maps to B
+       217 maps to E
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        34 maps to F
+
+class StripedMap
+        17 maps to B
+       117 maps to C
+       217 maps to E
+        17 maps to B
+        34 maps to F
+        17 maps to B
+       217 maps to E
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        34 maps to F
+
+class StripedWriteMap
+       117 maps to C
+        17 maps to B
+       217 maps to E
+        17 maps to B
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        34 maps to F
+
+class WrapConcurrentHashMap
+        17 maps to B
+       117 maps to C
+        17 maps to B
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        34 maps to F
+       217 maps to E
+        17 maps to B
+        34 maps to F
+       217 maps to E
+SynchronizedMap       16         519086.6 us   28438.52          2
+99992.0
+StripedMap            16         138360.7 us   18230.19          4
+99992.0
+StripedWriteMap       16         111562.6 us   27293.70          4
+99992.03333333334
+WrapConcHashMap       16          97295.0 us    9104.17          4
+99992.0
